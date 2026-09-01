@@ -27,11 +27,11 @@
 
 | Dashboard    | Measurement  | Analytics    |
 | ------------ | ------------ | ------------ |
-| *Screenshot* | *Screenshot* | *Screenshot* |
+| *<img width="610" height="1356" alt="WhatsApp Image 2026-09-02 at 5 24 06 AM" src="https://github.com/user-attachments/assets/b7104020-50f9-4ce0-b293-2e5b0fa9827d" />
+* | *<img width="610" height="1356" alt="WhatsApp Image 2026-09-02 at 5 24 06 AM (1)" src="https://github.com/user-attachments/assets/957a41bc-c168-4248-bc41-32f97869b4fb" />
+* | *<img width="610" height="1356" alt="WhatsApp Image 2026-09-02 at 5 24 07 AM" src="https://github.com/user-attachments/assets/a49ed7b4-2a38-49f6-9ce7-adfc73492178" />
+* |
 
-| Alerts       | Device       | Settings     |
-| ------------ | ------------ | ------------ |
-| *Screenshot* | *Screenshot* | *Screenshot* |
 
 ---
 
