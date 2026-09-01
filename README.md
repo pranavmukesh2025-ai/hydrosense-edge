@@ -1,4 +1,3 @@
-# hydrosense-edge
 # HydroSense Edge
 
 ### Smart Non-Invasive Hydration Monitoring using Multi-Sensor Fusion
