@@ -1,5 +1,5 @@
 # hydrosense-edge
-# 💧 HydroSense Edge
+# HydroSense Edge
 
 ### Smart Non-Invasive Hydration Monitoring using Multi-Sensor Fusion
 
@@ -54,11 +54,11 @@ An **ESP32** acts as the embedded sensing and communication platform, while a **
 
 The system communicates through **Bluetooth Low Energy (BLE)**.
 
-> ⚠️ **Disclaimer:** HydroSense Edge is an experimental research prototype. The Hydration Index is not clinically validated and must not be used for medical diagnosis or treatment.
+> **Disclaimer:** HydroSense Edge is an experimental research prototype. The Hydration Index is not clinically validated and must not be used for medical diagnosis or treatment.
 
 ---
 
-# 🎯 Problem Statement
+#  Problem Statement
 
 Dehydration can negatively affect physical performance, concentration and overall wellbeing.
 
@@ -68,7 +68,7 @@ Traditional hydration assessment can be inconvenient and may depend on subjectiv
 
 ---
 
-# 💡 Proposed Solution
+#  Proposed Solution
 
 HydroSense Edge follows a multi-stage sensing and processing pipeline:
 
@@ -104,7 +104,7 @@ HydroSense Edge follows a multi-stage sensing and processing pipeline:
 
 ---
 
-# ✨ Key Features
+#  Key Features
 
 ###  Multi-Sensor Hydration Monitoring
 
@@ -203,7 +203,7 @@ HydroSense Edge stores historical measurements and provides a dedicated analytic
 
 ### Analytics include
 
-* 📈 Hydration Index trends
+* Hydration Index trends
 * Average hydration
 * Peak hydration
 * Minimum hydration
@@ -233,7 +233,7 @@ Triggered when the Hydration Index falls below the configured critical threshold
 
 Triggered when hydration enters the warning range.
 
-🏃 **Motion Warning**
+ **Motion Warning**
 
 Indicates excessive movement during measurement.
 
@@ -241,7 +241,7 @@ Indicates excessive movement during measurement.
 
 Indicates that the measurement quality may be unreliable.
 
-🔋 **Low Battery**
+ **Low Battery**
 
 Indicates that the sensing device requires charging.
 
@@ -301,7 +301,7 @@ Example:
 
 ---
 
-# 🏃 Motion & Measurement Quality
+#  Motion & Measurement Quality
 
 Movement can introduce unwanted artifacts into physiological measurements.
 
@@ -505,7 +505,7 @@ The proposed hardware system consists of an ESP32 and multiple sensing modules.
 
 ---
 
-# 🔄 End-to-End Data Flow
+# End-to-End Data Flow
 
 ```text
         Sensors
@@ -534,7 +534,7 @@ The proposed hardware system consists of an ESP32 and multiple sensing modules.
 
 ---
 
-# 🧪 Demo Mode
+#  Demo Mode
 
 HydroSense Edge includes a **Demo Mode** that allows the complete application to be evaluated without the physical ESP32 device.
 
@@ -763,13 +763,13 @@ HydroSense Edge is currently a **prototype**.
 
 ---
 
-# 📜 License
+#  License
 
 This project is developed for **educational, research and prototype purposes**.
 
 ---
 
-# 💧 HydroSense Edge
+#  HydroSense Edge
 
 > **Measure. Analyze. Understand.**
 
